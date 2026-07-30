@@ -25,7 +25,7 @@ Flutter Developer with **3.8+ years of experience** building scalable, high-perf
 
 ### 🌱 Currently Working On
 
-- BlockBalance Mobile App
+
 - Modern Flutter UI
 - Performance Optimization
 
