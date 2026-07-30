@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Mahammadsad Shaikh
 
-<!--
-**Ms0781/Ms0781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter Developer
 
-Here are some ideas to get you started:
+Flutter Developer with **3.8+ years of experience** building scalable, high-performance cross-platform mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- REST APIs
+- Clean Architecture
+- BLoC
+- GetX
+- Git & GitHub
+
+### 📱 What I Build
+
+- Enterprise Mobile Applications
+- Society Management Systems
+- Payment Integrations
+- Firebase-powered Apps
+- Responsive UI/UX
+
+### 🌱 Currently Working On
+
+- BlockBalance Mobile App
+- Modern Flutter UI
+- Performance Optimization
+
+### 🌐 Connect With Me
+
+- 🌍 Portfolio: https://portfolio-ms-chi.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/ms0781
+- 📧 Email: saadvarish21@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
